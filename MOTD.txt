@@ -1,3 +1,4 @@
-Thank you otisdub for everything!
-Horror Remake is out as Early Access!
-<color=red>this means that horror remake is still in development. expect things to break in the future
+New Update
+- cosmetics for special users (mod, admin, owner, etc)
+- enabled fan art gameobject
+- changed music in party room
