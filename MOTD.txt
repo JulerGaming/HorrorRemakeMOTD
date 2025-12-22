@@ -1,5 +1,7 @@
-It has come my attention of a post of Duttbust regarding capuchin fan games.
+New update!
 
-I have decided that Horror Remake will slowly become into a horror game rather than a Capuchin revival.
-
-- JulerGT (X)
+- Updated LIV
+- New LIV camera style
+- Voice chat is louder
+- New music
+- Loading screen waits 1 second before actually loading
