@@ -1,7 +1,7 @@
 New update!
 
-- Updated LIV
-- New LIV camera style
-- Voice chat is louder
-- New music
-- Loading screen waits 1 second before actually loading
+- Nametags
+The nametag shows your meta username, followed by your profile picture (its networked)!
+
+And to Albert:
+<size=50><b>Yupper, Bark!</b>
