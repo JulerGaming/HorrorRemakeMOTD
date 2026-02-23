@@ -1,7 +1,7 @@
-New update!
+New Update:
 
-- Nametags
-The nametag shows your meta username, followed by your profile picture (its networked)!
+Nametags:
+The nametag displays your meta username, followed by your profile picture (which is networked).
 
-And to Albert:
-<size=50><b>Yupper, Bark!</b>
+Logo:
+The game now features a cinematic intro when you launch the game before it actually loads.
