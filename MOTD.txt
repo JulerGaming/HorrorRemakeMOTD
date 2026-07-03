@@ -1,7 +1,3 @@
-New Update:
+Horror Remake has been discontinued.
 
-Nametags:
-The nametag displays your meta username, followed by your profile picture (which is networked).
-
-Logo:
-The game now features a cinematic intro when you launch the game before it actually loads.
+For more information, please read the Announcements channel on the Discord server.
